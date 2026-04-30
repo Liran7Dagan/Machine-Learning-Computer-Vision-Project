@@ -1,3 +1,3 @@
-The Project Notebook:
+The Project Notebook: alphabeit_detection.ipynb
 
-The Dataset:
+The Dataset: notMNIST.zip
