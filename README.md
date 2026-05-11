@@ -4,9 +4,9 @@ This Python Project presents an independent machine learning classifying model I
 to classify each letter. The model uses a KNN algorithm I came up with.
 
 ## THE PROJECT FILES
-**The Project Notebook:** alphabeit_detection.ipynb
+***The Project Notebook:*** alphabeit_detection.ipynb
 
-**The Dataset:** notMNIST.zip
+***The Dataset:*** notMNIST.zip
 
 
 
